@@ -1,4 +1,5 @@
-// no need to change this file
+// Update with your config settings.
+
 const sharedConfig = {
   client: 'sqlite3',
   useNullAsDefault: true,
@@ -25,3 +26,5 @@ module.exports = {
     connection: { filename: './data/testing.db3' },
   },
 }
+
+
